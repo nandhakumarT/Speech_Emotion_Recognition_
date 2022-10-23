@@ -1,1 +1,2 @@
-# Speech_Emotion_Recognition_
+## Speech_Emotion_Recognition_
+In this project, Convolutional Neural Networks and LSTM used to classify opposing emotions. Separate the speech by speaker gender to investigate the relationship between gender and emotional content of speech. There are a variety of temporal and spectral features that can be extracted from human speech. We use statistics relating to the pitch, Mel Frequency Cepstral Coefficients (MFCCs), and Formants of speech as inputs to classification algorithms. The emotion recognition accuracy of these experiments allows us to explain which features carry the most emotional information and it can be used by makerting company to suggest product for their customer based on their emotion. 
